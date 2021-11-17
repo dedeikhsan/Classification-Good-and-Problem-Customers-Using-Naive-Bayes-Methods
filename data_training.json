@@ -1,0 +1,275 @@
+[
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "III",
+        "pinjaman" : "Kecil",
+        "waktu" : "2",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "II",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Bermasalah"
+    },
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "II",
+        "pinjaman" : "Kecil",
+        "waktu" : "2",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "III",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "IV",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "III",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Banyak",
+        "golongan" : "II",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Bermasalah"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "II",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "II",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Bermasalah"
+    },
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "III",
+        "pinjaman" : "Besar",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Banyak",
+        "golongan" : "III",
+        "pinjaman" : "Sedang",
+        "waktu" : "2",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Banyak",
+        "golongan" : "II",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "IV",
+        "pinjaman" : "Besar",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "III",
+        "pinjaman" : "Besar",
+        "waktu" : "2",
+        "class" : "Bermasalah"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "II",
+        "pinjaman" : "Sedang",
+        "waktu" : "2",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "II",
+        "pinjaman" : "Sedang",
+        "waktu" : "2",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "III",
+        "pinjaman" : "Sedang",
+        "waktu" : "2",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Banyak",
+        "golongan" : "I",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Bermasalah"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "II",
+        "pinjaman" : "Besar",
+        "waktu" : "3",
+        "class" : "Bermasalah"
+    },
+    {
+        "tanggungan" : "Banyak",
+        "golongan" : "III",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Kosong",
+        "golongan" : "II",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Kosong",
+        "golongan" : "III",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "III",
+        "pinjaman" : "Kecil",
+        "waktu" : "2",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "III",
+        "pinjaman" : "Kecil",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "IV",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Kosong",
+        "golongan" : "IV",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Banyak",
+        "golongan" : "IV",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "III",
+        "pinjaman" : "Besar",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "III",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Bermasalah"
+    },
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "II",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "IV",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Kosong",
+        "golongan" : "III",
+        "pinjaman" : "Besar",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "III",
+        "pinjaman" : "Kecil",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Kosong",
+        "golongan" : "II",
+        "pinjaman" : "Besar",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "I",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Bermasalah"
+    },
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "IV",
+        "pinjaman" : "Kecil",
+        "waktu" : "2",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedang",
+        "golongan" : "IV",
+        "pinjaman" : "Besar",
+        "waktu" : "3",
+        "class" : "Baik"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "III",
+        "pinjaman" : "Sedang",
+        "waktu" : "3",
+        "class" : "Bermasalah"
+    },
+    {
+        "tanggungan" : "Sedikit",
+        "golongan" : "IV",
+        "pinjaman" : "Kecil",
+        "waktu" : "2",
+        "class" : "Baik"
+    }
+]
